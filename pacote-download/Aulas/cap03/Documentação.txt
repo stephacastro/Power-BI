@@ -1,0 +1,22 @@
+Documentação Estudo de caso 2
+
+Analisamos a solicitação do cliente e definimos os processos de negócios.
+
+Escolhemos o modelo de BI Star Schema para a extração e analise desses dados. 
+
+
+**** Criei tabelas dim (dimensções) e nestas tabelas estão os seguintes dados ****
+
+DIM_LOJA - Contem os dados de (loja, cidade e estado) 
+
+DIM_PRODUTO - Contem os dados de (id-produto, produto, categoria, segmento e fabricante)
+
+DIM_TEMPO - Contem os dados de (data-venda)
+
+DIM_VENDEDOR - Contem os dados de (Vendedor e id-vendedor)
+
+
+**** Criei uma tabela fato com as chaves primarias que vão fazer as conexões com as chaves estrangeiras ****
+
+TABELA_FATO - Contem os dados de (id-produto, loja, id-vendedor, data-venda, valor-venda)
+
