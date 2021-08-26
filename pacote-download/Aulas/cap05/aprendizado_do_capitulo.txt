@@ -1,0 +1,4 @@
+Neste capitulo estou aprendendo limpeza, transformação, séries temporais, agregação e filtros 
+
+Tarefa 1 - Carregar os dados e fazer a limpeza
+Terefa 2 - Fazedo a limpeza dos dados e fazendo os metadados 
