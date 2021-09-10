@@ -1,4 +1,9 @@
 Neste capitulo estou aprendendo limpeza, transformação, séries temporais, agregação e filtros 
 
 Tarefa 1 - Carregar os dados e fazer a limpeza
-Terefa 2 - Fazedo a limpeza dos dados e fazendo os metadados 
+Terefa 2 - Fazedo a limpeza dos dados e fazendo os metadados, removendo linha em branco 
+Tarefa 3 - Limpeza e transformação de dados 
+Tarefa 4 - Limpeza e transformação de dados 
+Tarefa 5 - Limpeza e transformação de dados 
+Tarefa 6 - Limpeza e tranformação de dados 
+Tarefa 7 - Abrir arquivos em pasta e incluindo novo conteudo na pasta 
