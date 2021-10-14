@@ -1,0 +1,2 @@
+Capitulo focado em realizar atividades praticas com o objetivo de explorar as funcionalidades de criação
+de gráficos no Power BI, entrando nos detalhes e vendo funcionalidades especificas. 
