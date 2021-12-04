@@ -1,0 +1,1 @@
+Extrai e transformei os dados, tratei erros e criei um dashboard para layout móvel.
